@@ -7,6 +7,7 @@ public class Deneme {
 		System.out.println("Ikinci satir kodum");
 		System.out.println("remot degisiklik");
 		System.out.println("Yasemin");
+		System.out.println("Cakisma (Confict)-Muaz");
 		
 		
 	}
